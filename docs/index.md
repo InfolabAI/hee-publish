@@ -1,4 +1,4 @@
-# Obsidian Notes
+# index
 
 Publish your public notes with MkDocs
 
